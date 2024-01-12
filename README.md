@@ -1,7 +1,9 @@
 # DSA 150-Day Challenge Repository
 
-Welcome to my 150-Day Data Structures and Algorithms Challenge! 🚀
 ![DSA image](https://miro.medium.com/v2/resize:fit:1358/1*4ZcW5tSdizlbtDQyVpRTuA.jpeg)
+
+
+## Welcome to my 150-Day Data Structures and Algorithms Challenge! 🚀
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
@@ -75,7 +77,7 @@ This challenge is inspired by my commitment to continuous learning and growth. I
 
 Feel free to reach out, share insights, or discuss solutions. Let's learn and grow together!
 
-- [LinkedIn](#) 
+- [LinkedIn](https://www.linkedin.com/in/aniket-nerkar-42193825a/) 
 
 *Keep Rocking the Code!*🚴‍♂️
 
